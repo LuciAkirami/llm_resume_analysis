@@ -1,0 +1,24 @@
+P99soft is seeking a skilled Data Scientist with 3-6 years of experience in product analytics or data science. The ideal candidate will have a strong background in Practical project experience in advanced data analysis, statistical modeling, and machine learning concepts is essential.
+
+
+
+Education: Background in Computer Science/Computer Applications or any quantitative discipline (Statistics, Mathematics, Economics/Operations Research, etc.) from a reputed institute.
+Analytical Skills: Analytical thinker with a passion for using data and scientific methods to solve business problems.
+Programming Proficiency: Proficient with common analytical programming languages e.g. Python; expert in SQL. Experience with writing production-ready code in Python and automation. Solid understanding of data transformations and analytics functions using tools/languages like Pandas, Sklearn, SQL, and Spark. Experience with tools like git, mlFlow, Airflow, Cron, Docker, and Cloud Platforms such as AWS/GCP is a plus.
+Technical Expertise: Strong proficiency in core Data Science, Machine Learning, and Statistical modeling. In-depth experience in techniques from time-series forecasting and/or causal inference. Experience with Experiment Design, Natural Language Processing, Neural Network architectures, Recommendation Systems, and Large Language Models, Generative AI (LLM) is highly desirable.
+Advanced Techniques: Deep knowledge of techniques such as Linear Regression, Gradient Descent, Logistic Regression, Forecasting Time Series, Cluster Analysis, Decision Trees, Linear Optimization, and Text Mining.
+Specific Skills: Must have Semantic Modeling & NER (Named Entity Recognition) experience.
+Pre-trained Models: Experience working with pre-trained models, awareness of the state-of-art in embeddings and their applicability for use cases.
+NLP/NLG/NLU Experience: Must have strong experience in NLP/NLG/NLU applications using popular deep learning frameworks like PyTorch, TensorFlow, BERT, Langchain, and GPT (or similar models).
+Generative AI Exposure: Must have exposure to Gen AI models (LLMs) like Mistral, Falcon, Llama 2, GPT-3.5 & 4, and Prompt Engineering.
+Cloud Experience: Experienced in developing and deploying data science models, especially in the Cloud environment. Must have worked using Azure services or AWS SageMaker for ML & GenAI projects.
+Consultative Skills: Demonstrated ability to engage with client stakeholders at multiple levels and provide consultative solutions across different domains.
+
+
+Benefits :
+
+Competitive salary and performance-based bonuses.
+Comprehensive health insurance.
+Paid time off and flexible working hours.
+Professional development opportunities and support for continuing education.
+Udemy Learning Licenses to enhance skills and stay up-to-date with the latest technology.
