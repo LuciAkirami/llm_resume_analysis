@@ -2,6 +2,16 @@
 
 This document provides instructions on how to set up and run the resume analysis system.
 
+
+https://github.com/user-attachments/assets/73231be6-0d43-43fc-99df-34272039dd11
+
+**Solution Image:**
+![Screenshot from 2025-01-08 21-04-03](https://github.com/user-attachments/assets/bf4c15a2-f1ef-4da4-af41-732c859de30b)
+![Screenshot from 2025-01-08 21-04-19](https://github.com/user-attachments/assets/f3f0a018-fe0e-446f-9e02-5ee8d7a8069e)
+![Screenshot from 2025-01-08 21-04-37](https://github.com/user-attachments/assets/4cd8c47a-d098-4614-b69e-18e80c9e4c16)
+![Screenshot from 2025-01-08 21-04-48](https://github.com/user-attachments/assets/ceb0354e-eaee-4c6f-a721-2a4c50613ebd)
+
+
 **Prerequisites:**
 
 -   **Python:** Python 3.10 or higher is required.
